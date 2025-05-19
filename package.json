@@ -1,0 +1,25 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "fullstack react express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikyArthya/restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "express"
+  ],
+  "author": "VikyArthya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VikyArthya/restapi/issues"
+  },
+  "homepage": "https://github.com/VikyArthya/restapi#readme"
+}
